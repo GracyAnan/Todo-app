@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1782718301496,
+    "text": "Practice Aptitude",
+    "completed": true
+  },
+  {
+    "id": 1782718308607,
+    "text": "Do DSA",
+    "completed": true
+  },
+  {
+    "id": 1782718317325,
+    "text": "Go for a Walk",
+    "completed": false
+  }
+]
