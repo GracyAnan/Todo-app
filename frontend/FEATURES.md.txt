@@ -1,0 +1,11 @@
+# Features
+
+- View all todo's
+- Add new todo
+- Delete todo
+- Mark todo completed
+- View individual todo details
+- Store data in JSON file
+- Search todo's
+- Filter todo's
+- Task counter for pending and completed tasks
